@@ -33,22 +33,24 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 
 * 👉 [Gigsboat](https://github.com/gigsboat/cli) - Track your speaking activities all within your GitHub opensource repository!
 
+## Web Security Activism 
+- Member of Node.js Foundation's [Ecosystem Security working group](https://github.com/nodejs/security-wg)
+- OWASP Project Member of [NodeGoat](https://github.com/OWASP/NodeGoat)
+- OWASP Project Lead for [CWE Tool](https://github.com/OWASP/cwe-tool) and [CWE SDK](https://github.com/OWASP/cwe-sdk-javascript)
+- Author of [npm Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html)
+- Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
+
 ## Author
 - [O'Reilly Serverless Security](https://www.oreilly.com/library/view/serverless-security/9781492082538/)
 - [Essential Node.js Security](https://leanpub.com/nodejssecurity)
 - [Web Security: Learning HTTP Security Headers](https://leanpub.com/securityheaders)
 
-## OWASP Projects Lead and contributor
-- [NodeGoat](https://github.com/OWASP/NodeGoat)
-- [CWE Tool](https://github.com/OWASP/cwe-tool)
-- [CWE SDK](https://github.com/OWASP/cwe-sdk-javascript)
-- Author of [npm security cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html)
-- Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
 ## Latest blog posts
 
-* [How to effectively detect and mitigate Trojan Source attacks in JavaScript codebases with ESLint](https://snyk.io/blog/how-to-detect-mitigate-trojan-source-attacks-javascript-eslint/) / 2021-11-09
-* [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/) / 2021-11-11
+* 2021-11-11 / [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/)
+* 2021-11-09 / [How to effectively detect and mitigate Trojan Source attacks in JavaScript codebases with ESLint](https://snyk.io/blog/how-to-detect-mitigate-trojan-source-attacks-javascript-eslint/)
+
 
 ## My GitHub Stats
 
