@@ -40,23 +40,50 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 - Author of [npm Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html)
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
-## Author
-- [O'Reilly Serverless Security](https://www.oreilly.com/library/view/serverless-security/9781492082538/)
-- [Essential Node.js Security](https://leanpub.com/nodejssecurity)
-- [Web Security: Learning HTTP Security Headers](https://leanpub.com/securityheaders)
-
-
 ## Latest blog posts
 
 * 2021-11-11 / [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/)
 * 2021-11-09 / [How to effectively detect and mitigate Trojan Source attacks in JavaScript codebases with ESLint](https://snyk.io/blog/how-to-detect-mitigate-trojan-source-attacks-javascript-eslint/)
 
+## Published Author
 
-## My GitHub Stats
-
-<p align="center">
-<a href="https://github.com/hellodeborahuk">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lirantal&count_private=true&show_icons=true&theme=synthwave" />
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lirantal&theme=synthwave&layout=compact&langs_count=10" />
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leanpub.com/nodejssecurity">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/nodejssecurity/s_featured?1620523801" width="120px;" alt="Essential Node.js Security" />
+          <br />
+          <sub><b>Essential Node.js Security</b></sub>
+      </a>
+      <br />
+      <sub>Liran Tal</sub>
+    </td>
+    <td align="center">
+      <a href="https://leanpub.com/securityheaders">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/securityheaders/s_featured?1629469989" width="120px;" alt="Web Security: Learning HTTP Security Headers" />
+          <br />
+          <sub><b>Web Security: Learning HTTP Security Headers</b></sub>
+      </a>
+      <br />
+      <sub>Liran Tal</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.oreilly.com/library/view/serverless-security/9781492082538/">
+          <img src="https://learning.oreilly.com/library/cover/9781492082538/250w/" width="120px;" alt="O'Reilly Serverless Security" />
+          <br />
+          <sub><b>O'Reilly Serverless Security</b></sub>
+      </a>
+      <br />
+      <sub>Guy Podjarny, Liran Tal</sub>
+    </td>
+    <td align="center">
+      <a href="https://snyk.io/wp-content/uploads/sooss_report_v2.pdf">
+          <img src="https://raw.githubusercontent.com/lirantal/lirantal/master/state-of-open-source-security-report-2019-cover.png" width="120px;" alt="State of Open Source Security 2019" />
+          <br />
+          <sub><b>Snyk's State of Open Source Security 2019</b></sub>
+      </a>
+      <br />
+      <sub>Liran Tal</sub>
+    </td>
+  </tr>
+</table>
