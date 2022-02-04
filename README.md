@@ -42,6 +42,8 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 
 ## Latest blog posts
 
+* 2022-01-09 / [Open source maintainer pulls the plug on npm packages colors and faker, now what?
+](https://snyk.io/blog/open-source-npm-packages-colors-faker)
 * 2021-12-13 / [The Log4j vulnerability and its impact on software supply chain security](https://snyk.io/blog/log4j-vulnerability-software-supply-chain-security-log4shell)
 * 2021-11-11 / [Best practices for containerizing Python applications with Docker](https://snyk.io/blog/best-practices-containerizing-python-docker/)
 * 2021-11-09 / [How to effectively detect and mitigate Trojan Source attacks in JavaScript codebases with ESLint](https://snyk.io/blog/how-to-detect-mitigate-trojan-source-attacks-javascript-eslint/)
