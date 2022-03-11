@@ -23,15 +23,11 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 </>
 <p align="center">
   <a href="https://twitter.com/liran_tal/">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Let's%20Be%20Friends%20on%20Twitter-1da1f2?logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/-Let's%20be%20friends%20on%20Twitter-1da1f2?style=social&logo=twitter" />
   </a>
 </p>
 
 <br />
-
-**December 2021 Project Spotlight**:
-
-* 👉 [Gigsboat](https://github.com/gigsboat/cli) - Track your speaking activities all within your GitHub opensource repository!
 
 ## Web Security Activism 
 - Member of Node.js Foundation's [Ecosystem Security working group](https://github.com/nodejs/security-wg)
