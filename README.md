@@ -38,6 +38,10 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 
 ## Latest blog posts
 
+* 2022-03-16 / [peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
+* 2022-03-14 / [Build a software bill of materials (SBOM) for open source supply chain security](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
+* 2022-03-08 / [Celebrating amazing open source innovation from Ukraine](https://snyk.io/blog/celebrating-amazing-open-source-innovation-ukraine)
+* 2022-02-09 / [Join “The Big Fix” to secure your projects with Snyk and earn cool swag](https://snyk.io/blog/join-the-big-fix)
 * 2022-01-09 / [Open source maintainer pulls the plug on npm packages colors and faker, now what?
 ](https://snyk.io/blog/open-source-npm-packages-colors-faker)
 * 2021-12-13 / [The Log4j vulnerability and its impact on software supply chain security](https://snyk.io/blog/log4j-vulnerability-software-supply-chain-security-log4shell)
