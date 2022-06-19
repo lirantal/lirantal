@@ -19,7 +19,7 @@
 
 
 <p align="center">
-A GitHub Star, world-wide recognized for championing open source software and actively working within communities to inspire and lift other humans. A JavaScript & Node.js software developer, building web applications and command-line tools. A web security activist , engaging in security research, software supply chain security, and regular contributor and project lead to OWASP Foundation projects. An avid member of the Node.js Foundation ecosystem security working group, dedicated to advancing Node.js security awareness and skillset in the open source community. Developer Advocate at Snyk.
+A GitHub Star, world-wide recognized for championing open source software and actively working within communities to inspire and lift other humans. A JavaScript & Node.js software developer, building web applications and command-line tools. A web security activist , engaging in security research, software supply chain security, and regular contributor and project lead to OWASP Foundation projects. An avid member of the Node.js Foundation ecosystem security working group, dedicated to advancing Node.js security awareness and skill-set in the open source community. Developer Advocate at Snyk.
 </>
 <p align="center">
   <a href="https://twitter.com/liran_tal/">
