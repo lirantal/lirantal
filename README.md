@@ -39,6 +39,7 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 ## Latest blog posts
 
 * 2022-08-17 / [Ruby gem installations can expose you to lockfile injection attacks](https://snyk.io/blog/ruby-gem-installation-lockfile-injection-attacks/)
+* 2022-08-04 / [A definitive guide to Ruby gems dependency management](https://snyk.io/blog/a-definitive-guide-to-ruby-gems-dependency-management/)
 * 2022-05-04 / [3 Jedi-inspired lessons to level up your JavaScript security](https://snyk.io/blog/jedi-lessons-to-level-up-javascript-security) 
 * 2022-03-16 / [peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/) ⚠️
 * 2022-03-14 / [Build a software bill of materials (SBOM) for open source supply chain security](https://snyk.io/blog/building-sbom-open-source-supply-chain-security/)
