@@ -38,6 +38,7 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 
 ## Latest blog posts
 
+* 2022-09-01 [The npm faker package and the unexpected demise of open source libraries](https://snyk.io/blog/npm-faker-package-open-source-libraries/)
 * 2022-08-17 [Ruby gem installations can expose you to lockfile injection attacks](https://snyk.io/blog/ruby-gem-installation-lockfile-injection-attacks/)
 * 2022-08-04 [A definitive guide to Ruby gems dependency management](https://snyk.io/blog/a-definitive-guide-to-ruby-gems-dependency-management/)
 * 2022-08-03 [Slidev 101: Coding presentations with Markdown](https://snyk.io/blog/slidev-101-coding-presentations-with-markdown/)
