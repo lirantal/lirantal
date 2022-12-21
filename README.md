@@ -36,8 +36,11 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 - Author of [npm Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html)
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
-## Latest blog posts
-
+## My latest articles on the [Snyk blog](https://snyk.io/blog)
+* 2022-12-05 [How to verify and secure your Mastodon account](How to verify and secure your Mastodon account)
+* 2022-11-07 [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
+* 2022-10-14 [How to add Playwright tests to your pull request CI with GitHub Actions](https://snyk.io/blog/how-to-add-playwright-tests-pr-ci-github-actions/)
+* 2022-09-29 [Choosing the best Node.js Docker image](https://snyk.io/blog/choosing-the-best-node-js-docker-image/)
 * 2022-09-01 [The npm faker package and the unexpected demise of open source libraries](https://snyk.io/blog/npm-faker-package-open-source-libraries/)
 * 2022-08-17 [Ruby gem installations can expose you to lockfile injection attacks](https://snyk.io/blog/ruby-gem-installation-lockfile-injection-attacks/)
 * 2022-08-04 [A definitive guide to Ruby gems dependency management](https://snyk.io/blog/a-definitive-guide-to-ruby-gems-dependency-management/)
