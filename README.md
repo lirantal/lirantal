@@ -23,7 +23,7 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 </>
 <p align="center">
   <a href="https://twitter.com/liran_tal/">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Let's%20be%20friends%20on%20Twitter-1da1f2?style=social&logo=twitter" />
+    <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
   </a>
 </p>
 
