@@ -66,8 +66,8 @@ Awarded:
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://leanpub.com/nodejssecurity">
-          <img src="https://d2sofvawe08yqg.cloudfront.net/nodejssecurity/s_featured?1620523801" width="120px;" alt="Essential Node.js Security" />
+      <a href="https://leanpub.com/essential-nodejs-security">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/essential-nodejs-security/s_hero2x?1673556658" width="120px;" alt="Essential Node.js Security" />
           <br />
           <sub><b>Essential Node.js Security</b></sub>
       </a>
@@ -75,8 +75,8 @@ Awarded:
       <sub>Liran Tal</sub>
     </td>
     <td align="center">
-      <a href="https://leanpub.com/securityheaders">
-          <img src="https://d2sofvawe08yqg.cloudfront.net/securityheaders/s_featured?1629469989" width="120px;" alt="Web Security: Learning HTTP Security Headers" />
+      <a href="https://leanpub.com/web-security-learning-http-security-headers">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/web-security-learning-http-security-headers/s_hero2x?1673559565" width="120px;" alt="Web Security: Learning HTTP Security Headers" />
           <br />
           <sub><b>Web Security: Learning HTTP Security Headers</b></sub>
       </a>
