@@ -42,6 +42,7 @@ Awarded:
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
 ## My latest articles on the [Snyk blog](https://snyk.io/blog)
+* 2022-12-28 [5 "no experience needed" tips for building secure applications](https://snyk.io/blog/no-experience-needed-secure-applications/)
 * 2022-12-05 [How to verify and secure your Mastodon account](https://snyk.io/blog/verify-and-secure-your-mastodon-account/)
 * 2022-11-07 [NPM security: preventing supply chain attacks](https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/)
 * 2022-10-14 [How to add Playwright tests to your pull request CI with GitHub Actions](https://snyk.io/blog/how-to-add-playwright-tests-pr-ci-github-actions/)
