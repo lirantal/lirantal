@@ -1,7 +1,31 @@
 <h1 align="center">Hi, I'm Liran 👋</h1>
-<h3 align="center">Software Engineer · Web Security Activist · Open Source Software Champion</h3>
 
 
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leanpub.com/essential-nodejs-security">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/essential-nodejs-security/s_hero2x?1673556658" width="520px;" alt="Essential Node.js Security" />
+          <br />
+          <sub><b>Essential Node.js Security</b></sub>
+      </a>
+      <br />
+      <sub>Liran Tal</sub>
+    </td>
+    <td align="center">
+      <a href="https://leanpub.com/web-security-learning-http-security-headers">
+          <img src="https://d2sofvawe08yqg.cloudfront.net/web-security-learning-http-security-headers/s_hero2x?1673559565" width="520px;" alt="Web Security: Learning HTTP Security Headers" />
+          <br />
+          <sub><b>Web Security: Learning HTTP Security Headers</b></sub>
+      </a>
+      <br />
+      <sub>Liran Tal</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Software Engineer · Web Security Activist · Author</h3>
 <p align="center">
   <a href="https://stars.github.com/profiles/lirantal">
     <img src="https://img.shields.io/badge/GitHub%20Star-%E2%98%85-yellow">
