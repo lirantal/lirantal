@@ -54,6 +54,7 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 <br />
 
 Awarded:
+- ⭐️ 2023 [GitHub Star](https://stars.github.com/profiles/lirantal)
 - 🏆 2022 OpenJS Foundation's [Pathfinder Award for Security](https://openjsf.org/announcement/2022/06/07/first-ever-javascriptlandia-awards-celebrate-community-leaders)
 - ⭐️ 2022 [GitHub Star](https://stars.github.com/profiles/lirantal)
 - ⭐️ 2021 [GitHub Star](https://stars.github.com/profiles/lirantal)
