@@ -67,6 +67,7 @@ Awarded:
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
 ## My latest articles on the [Snyk blog](https://snyk.io/blog) and [my blog](https://lirantal.com)
+* 2023-02-25 [Open Source activism with ReadyCodePush](https://www.lirantal.com/blog/open-source-activism-readycodepush)
 * 2023-01-24 [How to add client-side search with PageFind to your Astro blog static website](https://www.lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)
 * 2023-01-15 [Advanced usage patterns for taking page element screenshots with Playwright](https://www.lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright)
 * 2022-12-28 [5 "no experience needed" tips for building secure applications](https://snyk.io/blog/no-experience-needed-secure-applications/)
