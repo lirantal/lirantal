@@ -5,19 +5,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://leanpub.com/essential-nodejs-security">
-          <img src="https://d2sofvawe08yqg.cloudfront.net/essential-nodejs-security/s_hero2x?1673556658" width="520px;" alt="Essential Node.js Security" />
+      <a href="https://www.nodejs-security.com/">
+          <img src="https://www.nodejs-security.com/assets/nodejs-secure-coding-book-3d-style.880b8bfc_Z1Yb8QF.avif" width="320px;" alt="Node.js Secure Coding: Defending Against Command Injection Vulnerabilities" />
           <br />
-          <sub><b>Essential Node.js Security</b></sub>
-      </a>
-      <br />
-      <sub>Liran Tal</sub>
-    </td>
-    <td align="center">
-      <a href="https://leanpub.com/web-security-learning-http-security-headers">
-          <img src="https://d2sofvawe08yqg.cloudfront.net/web-security-learning-http-security-headers/s_hero2x?1673559565" width="520px;" alt="Web Security: Learning HTTP Security Headers" />
-          <br />
-          <sub><b>Web Security: Learning HTTP Security Headers</b></sub>
+          <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
       </a>
       <br />
       <sub>Liran Tal</sub>
