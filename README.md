@@ -37,7 +37,7 @@
 A GitHub Star, world-wide recognized for championing open source software and actively working within communities to inspire and lift other humans. Liran also received the OpenJS Foundation's Pathfinder for Security for his work on Node.js security. A JavaScript & Node.js software developer, building web applications and command-line tools. A web security activist , engaging in security research, software supply chain security, and regular contributor and project lead to OWASP Foundation projects. An avid member of the Node.js Foundation ecosystem security working group, dedicated to advancing Node.js security awareness and skill-set in the open source community. Developer Advocate at Snyk.
 </>
 <p align="center">
-  <a href="https://twitter.com/liran_tal/">
+  <a href="https://twitter.com/liran_tal">
     <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
   </a>
 </p>
@@ -61,7 +61,7 @@ Awarded:
 * 2023-02-25 [Open Source activism with ReadyCodePush](https://www.lirantal.com/blog/open-source-activism-readycodepush)
 * 2023-02-22 [The security concerns of a JavaScript sandbox with the Node.js VM module](https://snyk.io/blog/security-concerns-javascript-sandbox-node-js-vm-module/)
 * 2023-01-24 [How to add client-side search with PageFind to your Astro blog static website](https://www.lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)
-* 2023-01-15 [Advanced usage patterns for taking page element screenshots with Playwright](https://www.lirantal.com/blog/2023-01-01_advanced_usage_patterns_for_taking_element_screenshots_with_playwright)
+* 2023-01-15 [Advanced usage patterns for taking page element screenshots with Playwright](https://www.lirantal.com/blog/advanced-usage-patterns-for-taking-page-element-screenshots-with-playwright)
 * 2022-12-28 [5 "no experience needed" tips for building secure applications](https://snyk.io/blog/no-experience-needed-secure-applications/)
 * 2022-12-05 [How to verify and secure your Mastodon account](https://snyk.io/blog/verify-and-secure-your-mastodon-account/)
 * 2022-11-22 [Enhance your command line with Warp](https://www.lirantal.com/blog/2022-11-22_enhance-your-command-line-with-warp)
@@ -118,7 +118,7 @@ Awarded:
       <sub>Guy Podjarny, Liran Tal</sub>
     </td>
     <td align="center">
-      <a href="https://snyk.io/wp-content/uploads/sooss_report_v2.pdf">
+      <a href="https://go.snyk.io/SoOSS-Report-2019.html">
           <img src="https://raw.githubusercontent.com/lirantal/lirantal/master/state-of-open-source-security-report-2019-cover.png" width="120px;" alt="State of Open Source Security 2019" />
           <br />
           <sub><b>Snyk's State of Open Source Security 2019</b></sub>
