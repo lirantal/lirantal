@@ -58,6 +58,7 @@ Awarded:
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
 ## My latest articles on the [Snyk blog](https://snyk.io/blog) and [my blog](https://lirantal.com)
+* 2023-05-22 [How to generate an SBOM for JavaScript and Node.js applications](https://snyk.io/blog/generate-sbom-javascript-node-js-applications/)
 * 2023-02-25 [Open Source activism with ReadyCodePush](https://www.lirantal.com/blog/open-source-activism-readycodepush)
 * 2023-02-22 [The security concerns of a JavaScript sandbox with the Node.js VM module](https://snyk.io/blog/security-concerns-javascript-sandbox-node-js-vm-module/)
 * 2023-01-24 [How to add client-side search with PageFind to your Astro blog static website](https://www.lirantal.com/blog/2023-01-01_-how_to_add_client-side_search_to_your_astro_blog_static_website)
