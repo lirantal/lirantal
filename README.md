@@ -58,6 +58,13 @@ Awarded:
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
 ## My latest articles on the [Snyk blog](https://snyk.io/blog) and [my blog](https://lirantal.com)
+* 2023-09-13 [Vue.js Patterns: Using Vue.js 3 Composition API for Reactive Parent to Child Communication](https://lirantal.com/blog/vuejs-patterns-using-vuejs-3-composition-api-for-reactive-parent-to-child-communication)
+* 2023-09-04 [Generating presentation titles using OpenAI background jobs with Node.js, Express and Trigger.dev](https://lirantal.com/blog/background-jobs-processing-with-node-js-express-trigger-dev)
+* 2023-08-17 [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://lirantal.com/blog/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku)
+* 2023-08-07 [Configuration Decoded: Lesser-Known Tips for Working with env-schema in Node.js](https://lirantal.com/blog/configuration-decoded-lesser-known-tips-for-working-with-env-schema-in-nodejs)
+* 2023-07-17 [Introducing Changesets: Simplify Project Versioning with Semantic Releases](https://lirantal.com/blog/introducing-changesets-simplify-project-versioning-with-semantic-releases)
+* 2023-07-08 [Deploying a Fastify & Vue 3 Static Site to Heroku](https://lirantal.com/blog/deploying-a-fastify-vue-3-static-site-to-heroku)
+* 2023-06-30 [Avoid Fastify's reply.raw and reply.hijack Despite Being A Powerful HTTP Streams Tool](https://lirantal.com/blog/avoid-fastify-reply-raw-and-reply-hijack-despite-being-a-powerful-http-streams-tool)
 * 2023-05-22 [How to generate an SBOM for JavaScript and Node.js applications](https://snyk.io/blog/generate-sbom-javascript-node-js-applications/)
 * 2023-02-25 [Open Source activism with ReadyCodePush](https://www.lirantal.com/blog/open-source-activism-readycodepush)
 * 2023-02-22 [The security concerns of a JavaScript sandbox with the Node.js VM module](https://snyk.io/blog/security-concerns-javascript-sandbox-node-js-vm-module/)
