@@ -59,6 +59,7 @@ Awarded:
 
 ## My latest articles on the [Snyk blog](https://snyk.io/blog) and [my blog](https://lirantal.com)
 * 2023-09-13 [Vue.js Patterns: Using Vue.js 3 Composition API for Reactive Parent to Child Communication](https://lirantal.com/blog/vuejs-patterns-using-vuejs-3-composition-api-for-reactive-parent-to-child-communication)
+* 2023-09-15 [Securing Your Node.js Apps by Analyzing Real-World Command Injection Examples](https://www.nodejs-security.com/blog/securing-your-nodejs-apps-by-analyzing-real-world-command-injection-examples)
 * 2023-09-04 [Generating presentation titles using OpenAI background jobs with Node.js, Express and Trigger.dev](https://lirantal.com/blog/background-jobs-processing-with-node-js-express-trigger-dev)
 * 2023-08-17 [How to Process Scheduled Queue Jobs in Node.js with BullMQ and Redis on Heroku](https://lirantal.com/blog/how-to-process-scheduled-queue-jobs-in-nodejs-with-bullmq-and-redis-on-heroku)
 * 2023-08-07 [Configuration Decoded: Lesser-Known Tips for Working with env-schema in Node.js](https://lirantal.com/blog/configuration-decoded-lesser-known-tips-for-working-with-env-schema-in-nodejs)
