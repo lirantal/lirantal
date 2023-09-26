@@ -6,7 +6,7 @@
   <tr>
     <td align="center">
       <a href="https://www.nodejs-security.com/">
-          <img src="https://www.nodejs-security.com/_astro/nodejs-secure-coding-book-3d-style.97c87673_26wWeE.avif" width="320px;" alt="Node.js Secure Coding: Defending Against Command Injection Vulnerabilities" />
+          <img src="https://www.nodejs-security.com/images/book/book-cover-light.png" width="320px;" alt="Node.js Secure Coding: Defending Against Command Injection Vulnerabilities" />
           <br />
           <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
       </a>
