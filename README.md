@@ -66,6 +66,7 @@ Awarded:
 * 2023-07-17 [Introducing Changesets: Simplify Project Versioning with Semantic Releases](https://lirantal.com/blog/introducing-changesets-simplify-project-versioning-with-semantic-releases)
 * 2023-07-08 [Deploying a Fastify & Vue 3 Static Site to Heroku](https://lirantal.com/blog/deploying-a-fastify-vue-3-static-site-to-heroku)
 * 2023-06-30 [Avoid Fastify's reply.raw and reply.hijack Despite Being A Powerful HTTP Streams Tool](https://lirantal.com/blog/avoid-fastify-reply-raw-and-reply-hijack-despite-being-a-powerful-http-streams-tool)
+* 2023-06-23 [An Introduction to Command Injection Vulnerabilities in Node.js and JavaScript](https://www.nodejs-security.com/blog/introduction-command-injection-vulnerabilities-nodejs-javascript)
 * 2023-05-22 [How to generate an SBOM for JavaScript and Node.js applications](https://snyk.io/blog/generate-sbom-javascript-node-js-applications/)
 * 2023-02-25 [Open Source activism with ReadyCodePush](https://www.lirantal.com/blog/open-source-activism-readycodepush)
 * 2023-02-22 [The security concerns of a JavaScript sandbox with the Node.js VM module](https://snyk.io/blog/security-concerns-javascript-sandbox-node-js-vm-module/)
