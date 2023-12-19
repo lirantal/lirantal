@@ -1,17 +1,25 @@
 <h1 align="center">Hi, I'm Liran 👋</h1>
 
 
-
+  <p align="center">
+    I wrote these two comprehensive deep-dive books on Secure Coding in Node.js to help developers master Node.js security with hands-on vulnerability review and remediation walkthroughs
+  </p>
 <table align="center">
+
   <tr>
     <td align="center">
       <a href="https://www.nodejs-security.com/">
-          <img src="https://www.nodejs-security.com/images/book/book-cover-light.png" width="320px;" alt="Node.js Secure Coding: Defending Against Command Injection Vulnerabilities" />
+          <img src="https://www.nodejs-security.com/images/book/book-command-injection-cover-dark.png" width="320px;" alt="Node.js Secure Coding: Defending Against Command Injection Vulnerabilities" />
           <br />
           <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
       </a>
-      <br />
-      <sub>Liran Tal</sub>
+    </td>
+    <td align="center">
+      <a href="https://www.nodejs-security.com/">
+          <img src="https://www.nodejs-security.com/images/book/book-path-traversal-cover-dark.png" width="320px;" alt="Node.js Secure Coding:Prevention and Exploitation of Path Traversal Vulnerabilities" />
+          <br />
+          <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
+      </a>
     </td>
   </tr>
 </table>
