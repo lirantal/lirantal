@@ -65,7 +65,7 @@ Awarded:
 - Author of [npm Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html)
 - Author of [Node.js Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NodeJS_Docker_Cheat_Sheet.html)
 
-## My latest articles on the [Snyk blog](https://snyk.io/blog) and [my blog](https://lirantal.com)
+## [Liran's articles on the Snyk blog](https://snyk.io/contributors/liran-tal/), [Liran Tal blog](https://lirantal.com) and [Node.js Security Blog](https://www.nodejs-security.com/blog)
 * 2023-09-13 [Vue.js Patterns: Using Vue.js 3 Composition API for Reactive Parent to Child Communication](https://lirantal.com/blog/vuejs-patterns-using-vuejs-3-composition-api-for-reactive-parent-to-child-communication)
 * 2023-09-15 [Securing Your Node.js Apps by Analyzing Real-World Command Injection Examples](https://www.nodejs-security.com/blog/securing-your-nodejs-apps-by-analyzing-real-world-command-injection-examples)
 * 2023-09-04 [Generating presentation titles using OpenAI background jobs with Node.js, Express and Trigger.dev](https://lirantal.com/blog/background-jobs-processing-with-node-js-express-trigger-dev)
