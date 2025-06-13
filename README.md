@@ -16,16 +16,16 @@
     </td>
     <td align="center">
       <a href="https://www.nodejs-security.com/">
-          <img src="https://www.nodejs-security.com/images/book/book-path-traversal-cover-light.png" width="320px;" alt="Node.js Secure Coding:Prevention and Exploitation of Path Traversal Vulnerabilities" />
+          <img src="https://www.nodejs-security.com/images/book/book-path-traversal-cover-light.png" width="320px;" alt="Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities" />
           <br />
-          <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
+          <sub><b>Node.js Secure Coding: Prevention and Exploitation of Path Traversal Vulnerabilities<b/></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.nodejs-security.com/">
           <img src="https://www.nodejs-security.com/images/book/book-code-injection-cover-light.png" width="320px;" alt="Mitigate and Weaponize Code Injection Vulnerabilities" />
           <br />
-          <sub><b>Node.js Secure Coding: Defending Against Command Injection Vulnerabilities<b/></sub>
+          <sub><b>Node.js Secure Coding: Mitigate and Weaponize Code Injection Vulnerabilities
       </a>
     </td>
   </tr>
