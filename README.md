@@ -2,7 +2,7 @@
 
 
   <p align="center">
-    I wrote these two comprehensive deep-dive books on Secure Coding in Node.js to help developers master Node.js security with hands-on vulnerability review and remediation walkthroughs
+    I created a series of comprehensive vulnerable code deep-dive training books on Secure Coding in Node.js to help developers master Node.js security with hands-on vulnerability review and remediation walkthroughs
   </p>
 <table align="center">
 
