@@ -83,6 +83,10 @@ Awarded:
 * [Node.js Security Blog](https://www.nodejs-security.com/blog)
 * [Liran's articles on the Snyk blog](https://snyk.io/contributors/liran-tal/)
 
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
+
 ## Published Author
 
 <table align="center">
