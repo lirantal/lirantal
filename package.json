@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "lint:links": "npx --no-install markdown-link-check README.md",
+    "lint:spelling": "npx --no-install cspell --show-suggestions --config .github/workflows/cspell.json README.md"
+  },
+  "devDependencies": {
+    "markdown-link-check": "3.14.2",
+    "cspell": "10.0.0"
+  }
+}
