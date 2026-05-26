@@ -25,5 +25,6 @@ jobs:
       uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
       with:
         node-version: ${{ matrix.node-version }}
-    - run: npx markdown-link-check README.md
-    - run: npx cspell --show-suggestions --config .github/workflows/cspell.json README.md
+    - run: npm ci
+    - run: npm run lint:links
+    - run: npm run lint:spelling
