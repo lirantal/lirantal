@@ -33,7 +33,7 @@
 
 <h3 align="center">Software Engineer · Web Security Activist · Author</h3>
 <p align="center">
-  <a href="https://stars.github.com/profiles/lirantal">
+  <a href="https://lirantal.com/blog/celebrating-community-my-journey-to-receiving-the-github-stars-2023-award">
     <img src="https://img.shields.io/badge/GitHub%20Star-%E2%98%85-yellow">
   </a>
   <a href="https://github.com/lirantal/awesome-nodejs-security">
@@ -61,10 +61,10 @@ A GitHub Star, world-wide recognized for championing open source software and ac
 
 Awarded:
 
-- ⭐️ 2023 [GitHub Star](https://stars.github.com/profiles/lirantal)
+- ⭐️ 2023 [GitHub Star](https://lirantal.com/blog/celebrating-community-my-journey-to-receiving-the-github-stars-2023-award)
 - 🏆 2022 OpenJS Foundation's [Pathfinder Award for Security](https://openjsf.org/blog/first-ever-javascriptlandia-awards-celebrate-community-leaders)
-- ⭐️ 2022 [GitHub Star](https://stars.github.com/profiles/lirantal)
-- ⭐️ 2021 [GitHub Star](https://stars.github.com/profiles/lirantal)
+- ⭐️ 2022 GitHub Star
+- ⭐️ 2021 GitHub Star
 
 ## Web Security Activism 
 
