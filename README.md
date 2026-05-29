@@ -52,8 +52,8 @@
 A GitHub Star, world-wide recognized for championing open source software and actively working within communities to inspire and lift other humans. Liran also received the OpenJS Foundation's Pathfinder for Security for his work on Node.js security. A JavaScript & Node.js software developer, building web applications and command-line tools. A web security activist , engaging in security research, software supply chain security, and regular contributor and project lead to OWASP Foundation projects. An avid member of the Node.js Foundation ecosystem security working group, dedicated to advancing Node.js security awareness and skill-set in the open source community. Developer Advocate at Snyk.
 </>
 <p align="center">
-  <a href="https://twitter.com/liran_tal">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Follow%20on%20Twitter-1da1f2?style=social&logo=twitter" />
+  <a href="https://x.com/liran_tal">
+      <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/liran_tal">
   </a>
 </p>
 
@@ -82,10 +82,6 @@ Awarded:
 * [Liran Tal blog](https://lirantal.com)
 * [Node.js Security Blog](https://www.nodejs-security.com/blog)
 * [Liran's articles on the Snyk blog](https://snyk.io/contributors/liran-tal/)
-
-## Contributing
-
-Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
 
 ## Published Author
 
